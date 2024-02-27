@@ -1,5 +1,5 @@
 /*
- * Sasha Vodnik
+ * Patrick Hennessey
  * JavaScript Best Practices for Code Formatting
  * LinkedIn Learning
  */
